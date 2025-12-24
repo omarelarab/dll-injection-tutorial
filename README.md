@@ -1,8 +1,7 @@
 # DLL Injection Tutorial: From Zero to Hero
 ## A Complete Beginner's Guide to Windows Process Manipulation
 
-**Author**: Created with AI Assistance  
-**Date**: December 2024  
+**Date**: December 2025  
 **Target Audience**: Beginners with basic C++ knowledge  
 **Platform**: Windows 10/11 (64-bit)
 
@@ -10,16 +9,16 @@
 
 # Table of Contents
 
-1. [Introduction: What is DLL Injection?](#chapter-1-introduction-what-is-dll-injection)
+1. [Introduction: What is DLL Injection?](#chapter-1-introduction---what-is-dll-injection)
 2. [Setting Up Your Environment](#chapter-2-setting-up-your-environment)
-3. [Part 1: The Injector - Getting Into Another Process](#chapter-3-the-injector)
-4. [Part 2: Simple Payloads - Doing Things Inside the Process](#chapter-4-simple-payloads)
-5. [Part 3: Window Subclassing - Intercepting Messages](#chapter-5-window-subclassing)
-6. [Part 4: Memory Scanning - Finding Hidden Functions](#chapter-6-memory-scanning)
-7. [Part 5: Inline Hooking - Intercepting Function Calls](#chapter-7-inline-hooking)
-8. [Part 6: API Hooking - The Ultimate Power](#chapter-8-api-hooking)
+3. [Part 1: The Injector - Getting Into Another Process](#chapter-3-the-injector---getting-into-another-process)
+4. [Part 2: Simple Payloads - Doing Things Inside the Process](#chapter-4-simple-payloads---doing-things-inside-the-process)
+5. [Part 3: Window Subclassing - Intercepting Messages](#chapter-5-window-subclassing---intercepting-messages)
+6. [Part 4: Memory Scanning - Finding Hidden Functions](#chapter-6-memory-scanning---finding-hidden-functions)
+7. [Part 5: Inline Hooking - Intercepting Function Calls](#chapter-7-inline-hooking---intercepting-function-calls)
+8. [Part 6: API Hooking - The Ultimate Power](#chapter-8-api-hooking---the-ultimate-power)
 9. [Part 7: Putting It All Together](#chapter-9-putting-it-all-together)
-10. [Conclusion and Next Steps](#chapter-10-conclusion)
+10. [Conclusion and Next Steps](#chapter-10-conclusion-and-next-steps)
 
 ---
 
