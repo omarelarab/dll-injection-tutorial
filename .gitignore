@@ -1,0 +1,25 @@
+# Build Artifacts
+*.exe
+*.dll
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# Logs
+*.txt
+*.log
+analyzer_results.txt
+code_dump.txt
+param_capture_log.txt
+createfilew_hook_log.txt
+wmcommand_save_log.txt
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Artifacts directory (if inside)
+.gemini/
